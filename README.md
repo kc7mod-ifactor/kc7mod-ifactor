@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello, I'm kc7mod-ifactor.
 
 <!--
 **kc7mod-ifactor/kc7mod-ifactor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Times / hours I like to work:
+- 09:00 - 17:00 -0700 (No DST)
+
+### Ways to communicate with me:
+- Email (Preferred)
+- JIRA (Preferred)
+- Slack
+- Microsoft Teams
